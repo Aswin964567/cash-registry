@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "933431944957",
+    "project_id": "cash-registry-f323b",
+    "storage_bucket": "cash-registry-f323b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933431944957:android:0f5227062f69db2c3d8094",
+        "android_client_info": {
+          "package_name": "com.example.cash_registry"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3d-qW2cUncr99iLts9t9VILAPTl6jS8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
